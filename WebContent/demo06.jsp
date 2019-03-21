@@ -30,6 +30,7 @@
 		}
 		document.getElementById("demo").innerHTML = text;
 	}
+  	
   </script>
 </body>
 </html>
