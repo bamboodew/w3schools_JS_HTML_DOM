@@ -8,12 +8,12 @@
 <body>
   <h3><font face="Consolas">Changing HTML Style</font></h3>
   <p id="p1">Hello World</p>
-  <p id="p2">Hello World</p>
-  
+  <p id="p2" style="font-size: medium; font-family: fantasy;">Hello World</p>
+
   <button onclick="myFunction1()">change color</button>
   <button onclick="myFunction2()">change fontFamily</button>
   <button onclick="myFunction3()">change fontSize</button>
-  <button onclick="myFunction4()">change fontSize</button>
+  <button onclick="myFunction4()">reset fontSize</button>
 
   <script type="text/javascript">
   	function myFunction1() {
@@ -27,8 +27,8 @@
 	}
   	function myFunction4() {
   		document.getElementById("p2").style.color = "black";
-  		document.getElementById("p2").style.fontFamily = "none";
-  		document.getElementById("p2").style.fontSize = "normal";
+  		document.getElementById("p2").style.fontFamily = "fantasy";
+  		document.getElementById("p2").style.fontSize = "medium";
 	}
   </script>
 </body>
