@@ -8,7 +8,7 @@
 <body>
   <h2>Changing the Value of an Attribute</h2>
   
-  <img id="image" src="leslie.jpg" width="273.2" height="409.6">
+  <img id="image" src="leslie.jpg" width="273.2" height="400">
   <br><br>
   <button onclick="myFunction()">Change it</button>
   
