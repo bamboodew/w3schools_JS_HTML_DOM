@@ -11,8 +11,8 @@
 }
 
 #animate {
-	width: 20px;
-	height: 20px;
+	width: 50px;
+	height: 50px;
 	position: absolute;
 	background-color: silver;
 }
@@ -33,10 +33,6 @@
 			var elem = document.getElementById("animate"); // 定位id为animate的元素，即银色的div
 			var pos = 0; // 初始化位置pos
 			var id = setInterval(frame, 10); // 每次“移动”时间为100ms;
-			/**
-			Calls a function or executes a code snippet repeatedly, 
-			with a fixed time delay between each call to that function.
-			**/
 			function frame() {
 				if (pos == 350) { // 400-50=350
 					clearInterval(id); // 停止移动
