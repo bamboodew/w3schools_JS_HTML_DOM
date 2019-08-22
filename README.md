@@ -11,7 +11,7 @@ Whether you are just starting, or you have several years of experience, these pa
 
 The 9 most important career planning tips is listed below:
 
-1. Never Stop Learning
+### 1. Never Stop Learning
 Life-long learning is your keyword.
 
 The world is constantly changing, and everybody is looking for new ways of doing business.
@@ -20,7 +20,7 @@ If you have decided that your current skills are good enough, you have also deci
 
 But if you want a career in the future, you should add regular updates to your skills and knowledge.
 
-2. Ask, Listen And Learn
+### 2. Ask, Listen And Learn
 A good listener can learn a lot.
 
 Listen to your co-workers, your boss, and your superiors. You can learn a lot from their experience.
@@ -29,7 +29,7 @@ Ask about issues that interest you, and listen to what they say. Let them tell y
 
 Most people will love to be your free tutor.
 
-3. Fulfill Your Current Job
+### 3. Fulfill Your Current Job
 Your current job might be best place to start your career.
 
 It is often very little that separates successful people from the average. But nothing comes free.
@@ -38,7 +38,7 @@ If you do your job well and fulfill your responsibilities, this is often the bes
 
 Talk to your supervisor about things you can do. Suggest improvements. Offer your help when help is needed. In return ask for help to build a better career. It is often possible - right inside your own organization - especially if you have proved to be a valued employee.
 
-4. Build Your Network
+### 4. Build Your Network
 Your next career step might arise from your contact network.
 
 Did you know that more than 50% of all jobs are obtained from contact networks?
@@ -49,14 +49,14 @@ Spend some time building new contacts, and don't forget to maintain the ones you
 
 One of the best ways to get serious information from your network is to regularly ask your contacts how they are, what they do, and what is new about their careers.
 
-5. Identify Your Current Job
+### 5. Identify Your Current Job
 Your current job should be identified, not assumed.
 
 Make sure you don't work with tasks you assume are important. This is waste of time and talent.
 
 When you start in a new job, talk to your superior about your priorities. If you're not sure about what is most important, then ask him. And ask him again. Often you will be surprised about the differences between what you assume, and what is really important.
 
-6. Identify Your Next Job
+### 6. Identify Your Next Job
 Your dream job must be identified.
 
 Before you start planning your future career, be sure you have identified your dream job.
@@ -67,7 +67,7 @@ Do you like or dislike having responsibility for other employees. Do you like to
 
 Before building your future career your goal must be identified.
 
-7. Prepare Yourself
+### 7. Prepare Yourself
 Your dream might show up tomorrow. Be prepared.
 
 Don't wait a second. Update your CV now, and continue to update it regularly.
@@ -76,7 +76,7 @@ Tomorrow your dream job may show up right before your nose. Prepare for it with 
 
 If you don't know how to write a CV, or how to describe yourself, start learning it now.
 
-8. Pick The Right Tools
+### 8. Pick The Right Tools
 Pick the tools you can handle.
 
 You can build your future career using a lot of different tools. Studying at W3Schools is easy. Taking a full master degree is more complicated.
@@ -85,7 +85,7 @@ You can add a lot to your career by studying books and tutorials (like the one y
 
 Don't pick a tool that is too heavy for you to handle!  
 
-9. Realize Your Dreams
+### 9. Realize Your Dreams
 Put your dreams into action.
 
 Don't let a busy job kill your dreams. If you have higher goals, put them into action now.
